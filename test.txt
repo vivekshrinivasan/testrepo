@@ -6,8 +6,6 @@ new commit
 added some
 
 
-3
-4
 
 
 pull resquest test
